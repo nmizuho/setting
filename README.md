@@ -1,2 +1,3 @@
 # setting
-setting for Linux
+setting for Linux (including Windows Subsystem for Linux)
+
